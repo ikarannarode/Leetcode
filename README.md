@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1894-merge-strings-alternately](https://github.com/ikarannarode/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ikarannarode/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
