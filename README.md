@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/ikarannarode/Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
