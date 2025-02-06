@@ -44,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/ikarannarode/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ikarannarode/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ikarannarode/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ikarannarode/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ikarannarode/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
