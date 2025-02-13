@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ikarannarode/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ikarannarode/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ikarannarode/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ikarannarode/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
