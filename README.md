@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/ikarannarode/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ikarannarode/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikarannarode/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ikarannarode/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
