@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ikarannarode/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ikarannarode/Leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ikarannarode/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ikarannarode/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ikarannarode/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ikarannarode/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ikarannarode/Leetcode/tree/master/0070-climbing-stairs) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ikarannarode/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ikarannarode/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
