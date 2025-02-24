@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikarannarode/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/ikarannarode/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ikarannarode/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ikarannarode/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
