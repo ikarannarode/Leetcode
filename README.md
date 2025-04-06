@@ -77,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ikarannarode/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ikarannarode/Leetcode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikarannarode/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/ikarannarode/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ikarannarode/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
