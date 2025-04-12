@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ikarannarode/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/ikarannarode/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/ikarannarode/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ikarannarode/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/ikarannarode/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ikarannarode/Leetcode/tree/master/0043-multiply-strings) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ikarannarode/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
