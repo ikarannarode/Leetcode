@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ikarannarode/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ikarannarode/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ikarannarode/Leetcode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/ikarannarode/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ikarannarode/Leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ikarannarode/Leetcode/tree/master/0389-find-the-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ikarannarode/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ikarannarode/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ikarannarode/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ikarannarode/Leetcode/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/ikarannarode/Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/ikarannarode/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikarannarode/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ikarannarode/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
